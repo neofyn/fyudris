@@ -1,10 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hey there! I'm Fanny, a dedicated Data Analyst and AI enthusiast. I'm on a mission to extract insights from data and leverage artificial intelligence to make the world smarter.
+Hey there! I'm Fanny. This site is currently under construction.
 
-## What I Do
-- 📊 I analyze data to unveil hidden trends and patterns.
-- 🤖 I develop AI models for a smarter future.
-- 🚀 I'm constantly working on exciting data and AI projects.
-
+![Stay Tuned!]([http://url/to/img.png](https://i.pinimg.com/originals/73/65/e1/7365e1abe72a0f58c1d30ce8cdc90ab8.jpg))
